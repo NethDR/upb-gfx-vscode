@@ -4,11 +4,10 @@ Adauga cateva configuratii pentru vscode ca sa folositi vscode ca IDE cu https:/
 
 # Instalare
 
-Din radacina ramework-ului dati comanda:
-
-'''
+Din radacina framework-ului dati comanda:
+```shell
 git clone https://github.com/NethDR/upb-gfx-vscode.git .vscode
-'''
+```
 
 Asta da clone la repo-ul asta si pune continutul intr-un folder numit .vscode (daca e deja un folder .vscode existent, puteti copia cele 2 fisiere direct acolo)
 
