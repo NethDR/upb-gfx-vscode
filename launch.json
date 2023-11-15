@@ -11,7 +11,7 @@
 			"program": "${workspaceFolder}/build/bin/Debug/GFXFramework.exe",
 			"args": [],
 			"stopAtEntry": false,
-			"cwd": "${fileDirname}",
+			"cwd": "${workspaceFolder}",
 			"environment": [],
 			"console": "externalTerminal",
 			"preLaunchTask": "Build GFXF"
@@ -23,7 +23,7 @@
 			"program": "${workspaceFolder}/build/bin/Debug/GFXFramework",
 			"args": [],
 			"stopAtEntry": false,
-			"cwd": "${fileDirname}",
+			"cwd": "${workspaceFolder}",
 			"environment": [],
 			"preLaunchTask": "Build GFXF"
 		}
